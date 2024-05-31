@@ -96,6 +96,3 @@ source /data/zzwenv/chatbot/bin/activate
 cd /data/chatbot && python vqa.py
 ```
 
-=======
-# chatglm_caption
->>>>>>> c39b028961dbf4b36fba0bd21ff21b9773835a56
